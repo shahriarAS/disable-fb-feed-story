@@ -2,9 +2,13 @@
     "description": "Removes News Feed & Story from Facebook.",  
     "manifest_version": 2,  
     "name": "Disable Facebook News Feed & Story",  
-    "version": "1.0", 
+    "version": "1.1", 
     "author": "Shahriar Ahmed Shovon", 
-    "homepage_url": "https://shahriarahmed.me/",
+    "homepage_url": "https://addons.mozilla.org/en-US/firefox/addon/disable-fb-news-feed-story/",
+    "icons": {
+        "48": "icon.png",
+        "96": "icon.png"
+      },      
     "content_scripts":  
     [  
         {
