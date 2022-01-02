@@ -1,4 +1,4 @@
-# Disable Facebook Feed & Story
+# Disable Facebook Feed & Story :: Firefox Add-On
 
 Removes News Feed & Story from Facebook. Save your time from scrolling through newsfeed and checking story.
 
