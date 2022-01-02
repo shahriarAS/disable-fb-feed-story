@@ -1,0 +1,16 @@
+{
+    "description": "Removes News Feed & Story from Facebook.",  
+    "manifest_version": 2,  
+    "name": "Disable Facebook News Feed & Story",  
+    "version": "1.0", 
+    "author": "Shahriar Ahmed Shovon", 
+    "homepage_url": "https://shahriarahmed.me/",
+    "content_scripts":  
+    [  
+        {
+            "css": ["style.css"],
+            "matches": ["*://*.facebook.com/*"],
+            "run_at": "document_start" 
+        }  
+    ]
+}
