@@ -4,7 +4,7 @@
     "name": "Disable Facebook News Feed & Story",  
     "version": "1.1", 
     "author": "Shahriar Ahmed Shovon", 
-    "homepage_url": "https://addons.mozilla.org/en-US/firefox/addon/disable-fb-news-feed-story/",
+    "homepage_url": "https://shahriarahmed.me/firefox/addon/disable-fb-news-feed-story/",
     "icons": {
         "48": "icon.png",
         "96": "icon.png"
